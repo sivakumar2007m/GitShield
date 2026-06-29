@@ -1,0 +1,37 @@
+# ==========================================
+# 1. GITSHIELD ROUTER (Android Studio)
+# ==========================================
+GitShieldRouter/.gradle/
+GitShieldRouter/build/
+GitShieldRouter/.idea/
+GitShieldRouter/local.properties
+GitShieldRouter/*.iml
+GitShieldRouter/captures/
+GitShieldRouter/.cxx/
+GitShieldRouter/app/build/
+
+# ==========================================
+# 2. GITSHIELD BACKEND (Python)
+# ==========================================
+Gitshield_Backend/.venv/
+Gitshield_Backend/venv/
+Gitshield_Backend/ENV/
+Gitshield_Backend/__pycache__/
+Gitshield_Backend/*.pyc
+Gitshield_Backend/.env
+
+# ==========================================
+# 3. GITSHIELD FRONTEND (Flutter / Web / Mobile)
+# ==========================================
+Gitshield_Fronend/.dart_tool/
+Gitshield_Fronend/.flutter-plugins
+Gitshield_Fronend/.flutter-plugins-dependencies
+Gitshield_Fronend/.packages
+Gitshield_Fronend/build/
+Gitshield_Fronend/.idea/
+Gitshield_Fronend/node_modules/
+Gitshield_Fronend/.env
+
+# System-wide ignores
+.DS_Store
+Thumbs.db
