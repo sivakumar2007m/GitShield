@@ -117,7 +117,7 @@ class _HomeScreenState extends State<HomeScreen>
   Color get surfaceBg =>
       isDark ? const Color(0xFF0D1117) : const Color(0xFFF0F4F8);
 
-  final String backendUrl = "http://127.0.0.1:5000";
+  final String backendUrl = "https://gitshield-backend.onrender.com";;
   @override
   void initState() {
     super.initState();
